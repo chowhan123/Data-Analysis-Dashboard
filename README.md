@@ -4,7 +4,7 @@
 The goal of this project was to create a comprehensive and interactive Annual Sales Report for Vrinda Store (2022). The primary intent was to help the business owner gain deep insights into customer behavior and product trends, enabling better data-driven decisions to boost sales in 2023 and 2024.
 
 📂 Dataset Used
-<a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+
 A structured sales dataset for the year 2022 was provided by Vrinda Store, containing information such as:
 Customer demographics (Age, Gender, State)
 Sales metrics (Orders, Revenue)
@@ -34,7 +34,6 @@ Order status (Delivered, Cancelled, etc.)
 
 
 📸 Dashboard Preview
-<a href="https://github.com/
 A clear, visually-rich Excel dashboard with filters to explore KPIs by gender, age, state, sales channel, and more.
 
 💡 Project Insights
