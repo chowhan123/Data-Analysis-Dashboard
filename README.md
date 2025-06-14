@@ -1,10 +1,13 @@
 # 📊 Vrinda Store Data Analysis – Interactive MS-Excel Dashboard
 
+
 🧩 Project Objective
 The goal of this project was to create a comprehensive and interactive Annual Sales Report for Vrinda Store (2022). The primary intent was to help the business owner gain deep insights into customer behavior and product trends, enabling better data-driven decisions to boost sales in 2023 and 2024.
 
+
 📂 Dataset Used
-<a href="https://github.com/chowhan123/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Excel-Project.xlsx">View Dashboard<a>
+<a href="https://github.com/chowhan123/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Excel-Project.xlsx">Dataset<a>
+
 
 📌 Key Questions & KPIs Explored
 - Compare sales and orders in a unified chart.
@@ -17,6 +20,7 @@ The goal of this project was to create a comprehensive and interactive Annual Sa
 - Identify the highest selling product category.
 - Calculate the percentage of total orders delivered.
 - Dashboard Interaction <a href="https://github.com/chowhan123/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Dashboard.png">View Dashboard<a>
+
 
 🧪 Process Followed
 - Cleaned and validated the dataset for any anomalies or missing values.
@@ -34,6 +38,7 @@ The goal of this project was to create a comprehensive and interactive Annual Sa
 
 A clear, visually-rich Excel dashboard with filters to explore KPIs by gender, age, state, sales channel, and more.
 
+
 💡 Project Insights
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
@@ -41,10 +46,12 @@ A clear, visually-rich Excel dashboard with filters to explore KPIs by gender, a
 - The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 - More than 90% of the products delivered
 
+
 - 📁 Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 - Data Cleaning & Validatio
 - Visualization & Dashboard Design
+
 
 🎯 Final Conclusion
 To increase future sales, Vrinda Store should focus on a targeted marketing strategy aimed at:
