@@ -6,7 +6,7 @@ The goal of this project was to create a comprehensive and interactive Annual Sa
 
 
 📂 Dataset Used
-<a href="https://github.com/chowhan123/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Excel-Project.xlsx">Dataset<a>
+ - <a href="https://github.com/chowhan123/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20Excel-Project.xlsx">Dataset<a>
 
 
 📌 Key Questions & KPIs Explored
@@ -35,7 +35,6 @@ The goal of this project was to create a comprehensive and interactive Annual Sa
 
 📸 Dashboard Preview
 ![Vrinda Store Dashboard](https://github.com/user-attachments/assets/08216f27-607f-4337-929e-b36651869649)
-
 A clear, visually-rich Excel dashboard with filters to explore KPIs by gender, age, state, sales channel, and more.
 
 
